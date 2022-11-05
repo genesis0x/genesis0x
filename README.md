@@ -73,7 +73,7 @@
 </p>
 
 
-![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rep-aku&theme=redical)
+![rep-aku's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rep-aku&theme=redical)
 
 
 
