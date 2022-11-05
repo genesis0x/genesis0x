@@ -64,7 +64,7 @@
 ## 📈 My Github status
 
 <p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rep-aku?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rep-aku&theme=radical" />
 </p>
 
