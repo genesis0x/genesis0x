@@ -61,10 +61,21 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rep-aku&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+## 📈 My Github status
 
-<br/>  
+<p align="left">
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/ayoub0x1?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rep-aku&theme=radical" />
+</p>
+
+<p align="left">
+   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=rep-aku&show_icons=true&theme=radical" />
+</p>
+
+
+![ayoub0x1's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rep-aku&theme=redical)
+
+
 
 
 ## Recent Blog Posts  
