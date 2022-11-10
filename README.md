@@ -29,7 +29,6 @@
 </div>
 
 
-
 ## Connect with Me  
 <div align="center">
 <a href="https://github.com/rep-aku" target="_blank">
@@ -49,6 +48,7 @@
 
 ## 📈 My Github Status
 
+[![rep-aku's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rep-aku&layout=compact&hide_border=true&theme=jolly)](https://github.com/rep-aku?tab=repositories)
 <p align="left">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rep-aku?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rep-aku&theme=radical" />
@@ -60,8 +60,6 @@
 
 
 ![rep-aku's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rep-aku&theme=redical)
-
-
 
 <br/>  
 
