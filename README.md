@@ -10,7 +10,7 @@
 <a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/starryblue/hahadiou" alt="hahadiou's 42 stats" /></a>
 </p>
 
-- 🔭 I’m currently working on [42-Printf](https://github.com/rep-aku/printf_bonus)  
+- 🔭 I’m currently working on [42-Pipex](https://github.com/rep-aku/Pipex)  
   
 
 - 🌱 I’m currently learning Algorithms and AI  
