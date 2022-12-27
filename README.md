@@ -52,10 +52,10 @@
 
 ## 📈 My Github Status
 
-[![rep-aku's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rep-aku&layout=compact&hide_border=true&theme=jolly)](https://github.com/rep-aku?tab=repositories)
+[![rep-aku's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rep-aku&layout=compact&hide_border=true&theme=jolly)](https://github.com/genesis0x?tab=repositories)
 <p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/rep-aku?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rep-aku&theme=radical" />
+  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/genesis0x?cardType=github&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=genesis0x&theme=radical" />
 </p>
 
 <p align="left">
@@ -72,7 +72,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rep-aku&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=genesis0x&&style=flat-square" align="center" />
 </div>  
   
 
