@@ -35,7 +35,7 @@
 
 ## Connect with Me  
 <div align="center">
-<a href="https://github.com/rep-aku" target="_blank">
+<a href="https://github.com/genesis0x" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/rep_aku" target="_blank">
@@ -52,18 +52,18 @@
 
 ## 📈 My Github Status
 
-[![genesis0x's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rep-aku&layout=compact&hide_border=true&theme=jolly)](https://github.com/genesis0x?tab=repositories)
+[![genesis0x's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genesis0x&layout=compact&hide_border=true&theme=jolly)](https://github.com/genesis0x?tab=repositories)
 <p align="left">
   <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/genesis0x?cardType=github&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=genesis0x&theme=radical" />
 </p>
 
 <p align="left">
-   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=rep-aku&show_icons=true&theme=radical" />
+   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=genesis0x&show_icons=true&theme=radical" />
 </p>
 
 
-![rep-aku's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=rep-aku&theme=redical)
+![genesis0x's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=genesis0x&theme=redical)
 
 <br/>  
 
