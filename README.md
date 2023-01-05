@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on [42-Pipex](https://github.com/rep-aku/Pipex)  
   
 
-- 🌱 I’m currently learning Algorithms and AI  
+- 🌱 I’m currently learning 
   
 
 - ⚡ Fun fact: AKBAR MICROBE F 1337 Med  
