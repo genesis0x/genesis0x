@@ -63,7 +63,6 @@
 </p>
 
 
-![genesis0x's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=genesis0x&theme=redical)
 
 <br/>  
 
