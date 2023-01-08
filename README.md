@@ -1,7 +1,5 @@
-
-</p>
-<p align="center">  
-<img src ="https://media.tenor.com/qXsgPu0UMHEAAAAC/xd-programming.gif">
+<p align="center">
+  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
 ### <div align="center">I'm Hamza Mon bb, 1337 Student 👨‍💻 </div>  
@@ -27,9 +25,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" width="52" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" width="52" alt="c logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="52" alt="git logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
 </div>
 
 
@@ -47,22 +43,13 @@
 </div>  
   
 
+
 <br/>  
 
 
 ## 📈 My Github Status
 
-[![genesis0x's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=genesis0x&layout=compact&hide_border=true&theme=jolly)](https://github.com/genesis0x?tab=repositories)
-<p align="left">
-  <img width="43%" src="https://awesome-github-stats.azurewebsites.net/user-stats/genesis0x?cardType=github&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=genesis0x&theme=radical" />
-</p>
-
-<p align="left">
-   <img width="40%" src="(https://github-readme-stats.vercel.app/api?username=genesis0x&show_icons=true&theme=radical" />
-</p>
-
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)]
 
 <br/>  
 
